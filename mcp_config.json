@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "douyin-hot-board": {
+      "command": "python",
+      "args": ["d:\\mcpdemo\\made-mcp\\douyin_hot_mcp.py"],
+      "description": "抖音热榜MCP工具 - 获取抖音热榜数据",
+      "category": "社交媒体"
+    }
+  }
+}
